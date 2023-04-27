@@ -1,5 +1,4 @@
-import aiohttp
-import asyncio
+import aiohttp,asyncio
 import ssl
 from bs4 import BeautifulSoup as BS
 from fake_useragent import UserAgent
